@@ -1,3 +1,0 @@
-Create the processes you need for your work in that location.
-
-Separate them into folders if necessary.
